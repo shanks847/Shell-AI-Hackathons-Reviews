@@ -1,4 +1,4 @@
-# Shell-AI-Hackathons-Reviews\
+# Shell-AI-Hackathons-Reviews
 
 This contains approaches to the previous shell hackathons and data. Corrections and Improvements are welcomed. In these repos, parallels to classical optimization and forecasting problems are shown as well as readings on how this work can be extended to further studies. 
 Issues highlighted by the community and interesting discussions are proffered and collated in tbe main manuscript available on arXiv.
